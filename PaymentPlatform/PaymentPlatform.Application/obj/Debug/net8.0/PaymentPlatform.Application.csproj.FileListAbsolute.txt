@@ -1,0 +1,16 @@
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\bin\Debug\net8.0\PaymentPlatform.Application.deps.json
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\bin\Debug\net8.0\PaymentPlatform.Application.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\bin\Debug\net8.0\PaymentPlatform.Application.pdb
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\bin\Debug\net8.0\PaymentPlatform.Domain.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\bin\Debug\net8.0\PaymentPlatform.Domain.pdb
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.csproj.AssemblyReference.cache
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.AssemblyInfoInputs.cache
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.AssemblyInfo.cs
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.sourcelink.json
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentP.936F5701.Up2Date
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\refint\PaymentPlatform.Application.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\PaymentPlatform.Application.pdb
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Application\obj\Debug\net8.0\ref\PaymentPlatform.Application.dll

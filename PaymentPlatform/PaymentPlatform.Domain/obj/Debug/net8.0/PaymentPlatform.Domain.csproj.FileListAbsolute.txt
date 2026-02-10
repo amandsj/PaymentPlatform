@@ -1,0 +1,12 @@
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\bin\Debug\net8.0\PaymentPlatform.Domain.deps.json
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\bin\Debug\net8.0\PaymentPlatform.Domain.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\bin\Debug\net8.0\PaymentPlatform.Domain.pdb
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.AssemblyInfoInputs.cache
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.AssemblyInfo.cs
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.sourcelink.json
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\refint\PaymentPlatform.Domain.dll
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\PaymentPlatform.Domain.pdb
+C:\Projetos\PaymentPlatform\PaymentPlatform\PaymentPlatform.Domain\obj\Debug\net8.0\ref\PaymentPlatform.Domain.dll

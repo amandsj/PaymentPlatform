@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaymentPlatform.Application/1.0.0": {
+        "dependencies": {
+          "PaymentPlatform.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PaymentPlatform.Application.dll": {}
+        }
+      },
+      "PaymentPlatform.Domain/1.0.0": {
+        "runtime": {
+          "PaymentPlatform.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentPlatform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentPlatform.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

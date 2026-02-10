@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore.txt" />
+  </Folder>
+  <Project Path="PaymentPlatform.API/PaymentPlatform.API.csproj" />
+  <Project Path="PaymentPlatform.Application/PaymentPlatform.Application.csproj" />
+  <Project Path="PaymentPlatform.Domain/PaymentPlatform.Domain.csproj" />
+  <Project Path="PaymentPlatform.Infrastructure/PaymentPlatform.Infrastructure.csproj" />
+</Solution>
